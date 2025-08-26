@@ -14,8 +14,12 @@ Currently learning and trying to build small projects to improve my skills.
 
 ## Projects
 - To-Do List (Python)  
-- Simple Calculator  
-- IP Address Checker  
+- Shopping-Cart-System
+- Student-Grades-Manager
+- Currency-Converter
+- password-generator
+
+
 
 
 
