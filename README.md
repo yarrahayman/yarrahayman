@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Yara 👋
 
-<!--
-**yarrahayman/yarrahayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in networking, cybersecurity, and programming.  
+Currently learning and trying to build small projects to improve my skills.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills & Learning
+- Networking basics (IP, Subnetting, Ports)  
+- Cybersecurity fundamentals  
+- Python  
+
+
+
+## Projects
+- To-Do List (Python)  
+- Simple Calculator  
+- IP Address Checker  
+
+
+
+## Contact
+GitHub: [github.com/yarrahayman](https://github.com/yarrahayman)
+
+
