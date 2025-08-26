@@ -1,4 +1,4 @@
-# Hi, I'm Yara 👋
+# I'm Yara
 
 I'm interested in networking, cybersecurity, and programming.  
 Currently learning and trying to build small projects to improve my skills.  
